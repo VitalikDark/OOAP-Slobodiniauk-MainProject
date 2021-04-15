@@ -2,3 +2,6 @@ Slobodiniauk Vitalii Alexsandrovitch.
 Зміни_2
 
 Зміни_1
+
+
+console.log(111)
