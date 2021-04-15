@@ -1,3 +1,5 @@
 Slobodiniauk Vitalii Alexsandrovitch.
 
 Зміни_1
+
+console.log('hello')
