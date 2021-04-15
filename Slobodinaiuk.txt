@@ -3,5 +3,7 @@ Slobodiniauk Vitalii Alexsandrovitch.
 
 Зміни_1
 
+console.log('hello')
+
 
 console.log(111)
